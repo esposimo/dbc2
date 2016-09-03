@@ -2,7 +2,7 @@
 	"name": "smn/Database",
 	"autoload": {
         "psr-0" : {
-            "smnDev\\Database" : "Database"
+            "smn\\pheeca\\Database" : "dbc"
         }
     }
 }
