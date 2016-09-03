@@ -1,10 +1,9 @@
 {
-    "name": "smnDev/dbc",
     "repositories": [
     {
         "type": "package",
         "package": {
-            "name": "weaverryan/derp-dangerzone",
+            "name": "smnDev/dbc",
             "version": "dev-master",
             "source": {
                 "url": "git://github.com/smnDev/dbc.git",
