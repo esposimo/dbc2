@@ -1,16 +1,3 @@
 {
-    "repositories": [
-    {
-        "type": "package",
-        "package": {
-            "name": "smnDev/dbc",
-            "version": "dev-master",
-            "source": {
-                "url": "git://github.com/smnDev/dbc.git",
-                "type": "git",
-                "reference": "master"
-            }
-        }
-    }
-]
+	"name": "smnDev/dbc"
 }
