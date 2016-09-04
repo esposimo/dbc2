@@ -1,8 +1,8 @@
 {
-	"name": "smn/database",
+	"name": "smn/pheeca/database",
 "autoload": {
         "psr-4": {
-            "smn\\pheeca\\Database\\": "Database/"
+            "smn\\pheeca\\Database\\": "src/"
         }
     }
 }
