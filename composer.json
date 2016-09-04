@@ -1,8 +1,12 @@
 {
-	"name": "smn/Database",
-"autoload": {
+    "name": "smn/Database",
+    "autoload": {
         "psr-4": {
             "smn\\pheeca\\Database\\": "src/"
+        },
+        "classmap": {
+            "smn\\pheeca\\Database": "/src/Database.php"
         }
     }
 }
+
