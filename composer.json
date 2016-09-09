@@ -1,5 +1,6 @@
 {
     "name": "smn/Database",
+    "description": "Mie classi su creazione ed esecuzione statement sql",
     "autoload": {
         "psr-4": {
             "smn\\pheeca\\Database\\": "src/"
